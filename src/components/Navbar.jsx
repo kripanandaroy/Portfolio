@@ -53,7 +53,7 @@ const Navbar = () => {
             ))}
           </ul>
 
-          <a href="/assets/Resume...kripananda.pdf" download className="nav-cv-btn">
+          <a href="/Resume...kripananda.pdf" download className="nav-cv-btn">
             Download CV
           </a>
 
@@ -84,7 +84,7 @@ const Navbar = () => {
             </li>
           ))}
           <li>
-            <a href="/assets/Kripananda_Roy_CV.pdf" download className="nav-cv-btn nav-cv-mobile">
+            <a href="/Resume...kripananda.pdf" download className="nav-cv-btn nav-cv-mobile">
               Download CV
             </a>
           </li>
