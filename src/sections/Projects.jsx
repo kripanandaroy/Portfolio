@@ -23,12 +23,12 @@ const projectsData = [
     live: '#',
   },
   {
-    title: 'Real-time Chat App',
-    description: 'A responsive real-time chat application featuring private messaging, rooms, and online status indicators.',
+    title: 'Netflix Clone',
+    description: 'A Netflix UI clone built with React.js featuring responsive design, movie browsing, and a modern streaming interface.',
     image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1000&auto=format&fit=crop',
-    tech: ['MERN Stack', 'Socket.io', 'JWT Auth'],
-    github: 'https://github.com/kripanandaroy',
-    live: '#',
+    tech: ['React', 'JavaScript', 'CSS', 'Vite'],
+    github: 'https://github.com/kripanandaroy/Netflix-Clone',
+    live: 'https://netflix-clone-beta-jet-86.vercel.app/',
   },
 ];
 
