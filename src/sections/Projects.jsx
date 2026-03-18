@@ -28,7 +28,7 @@ const projectsData = [
     image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1000&auto=format&fit=crop',
     tech: ['React', 'JavaScript', 'CSS', 'Vite'],
     github: 'https://github.com/kripanandaroy/Netflix-Clone',
-    live: 'https://netflix-clone-beta-jet-86.vercel.app/',
+    live: 'https://ketflix-clone-beta-jet-86.vercel.app/',
   },
 ];
 
