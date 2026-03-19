@@ -84,7 +84,7 @@ const Navbar = () => {
             </li>
           ))}
           <li>
-            <a href="/Resume...kripananda.pdf" download className="nav-cv-btn nav-cv-mobile">
+            <a href="/Kripananda_Roy_CV.pdf" download className="nav-cv-btn nav-cv-mobile">
               Download CV
             </a>
           </li>

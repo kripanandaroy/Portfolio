@@ -77,7 +77,7 @@ const Hero = () => {
           <a href="#contact"  onClick={(e) => scrollTo(e, '#contact')}  className="hero-btn-secondary">
             Contact Me
           </a>
-          <a href="/assets/Kripananda_Roy_CV.pdf" download className="hero-btn-cv">
+          <a href="/Kripananda_Roy_CV.pdf" download className="hero-btn-cv">
             CV
           </a>
         </div>
