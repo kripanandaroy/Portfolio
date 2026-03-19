@@ -58,7 +58,7 @@ const About = () => {
               <div className="about-edu-details">
                 <h3 className="about-edu-title">Education</h3>
                 <p className="about-edu-degree">Bachelor of Computer Applications (BCA)</p>
-                <a href="https://www.muj.manipal.edu" target="_blank" rel="noopener noreferrer" className="about-edu-uni">
+                <a href="https://jaipur.manipal.edu/" target="_blank" rel="noopener noreferrer" className="about-edu-uni">
                   Manipal University Jaipur <ExternalLink size={14} className="inline ml-1" />
                 </a>
               </div>
