@@ -32,15 +32,11 @@ const Contact = () => {
     setStatus(null);
 
     const formData = new FormData(e.target);
-    formData.append("access_key", "YOUR_WEB3FORMS_ACCESS_KEY"); // User needs to set this
+    formData.append("access_key", "dca188cb-feac-4c13-9dbc-3589d5dae1d9"); // User needs to set this
 
     try {
-      // Stubbed success for UI demo, in real life Web3Forms is called
-      /*
       const response = await fetch("https://api.web3forms.com/submit", { method: "POST", body: formData });
       const data = await response.json();
-      */
-      const data = { success: true }; // fake success for now
 
       if (data.success) {
         setIsSubmitting(false);
@@ -99,11 +95,11 @@ const Contact = () => {
               <div className="form-row">
                 <div className="form-group">
                   <label htmlFor="user_name">Your Name</label>
-                  <input type="text" name="name" id="user_name" required placeholder="John Doe" className="form-input" />
+                  <input type="text" name="name" id="user_name" required placeholder="Enter Your Name" className="form-input" />
                 </div>
                 <div className="form-group">
                   <label htmlFor="user_email">Your Email</label>
-                  <input type="email" name="email" id="user_email" required placeholder="john@example.com" className="form-input" />
+                  <input type="email" name="email" id="user_email" required placeholder="Enter Your Email" className="form-input" />
                 </div>
               </div>
 
